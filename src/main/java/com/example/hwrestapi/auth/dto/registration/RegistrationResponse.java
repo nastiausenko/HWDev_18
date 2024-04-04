@@ -1,4 +1,4 @@
-package com.example.hwrestapi.auth.registration;
+package com.example.hwrestapi.auth.dto.registration;
 
 import lombok.Builder;
 import lombok.Data;

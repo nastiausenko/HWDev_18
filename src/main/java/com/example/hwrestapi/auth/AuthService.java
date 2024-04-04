@@ -1,9 +1,9 @@
 package com.example.hwrestapi.auth;
 
-import com.example.hwrestapi.auth.login.LoginRequest;
-import com.example.hwrestapi.auth.login.LoginResponse;
-import com.example.hwrestapi.auth.registration.RegistrationRequest;
-import com.example.hwrestapi.auth.registration.RegistrationResponse;
+import com.example.hwrestapi.auth.dto.login.LoginRequest;
+import com.example.hwrestapi.auth.dto.login.LoginResponse;
+import com.example.hwrestapi.auth.dto.registration.RegistrationRequest;
+import com.example.hwrestapi.auth.dto.registration.RegistrationResponse;
 import com.example.hwrestapi.security.JwtUtil;
 import com.example.hwrestapi.users.User;
 import com.example.hwrestapi.users.UserService;

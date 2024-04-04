@@ -1,4 +1,4 @@
-package com.example.hwrestapi.auth.login;
+package com.example.hwrestapi.auth.dto.login;
 
 import lombok.Data;
 
